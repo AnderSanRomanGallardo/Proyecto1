@@ -1,5 +1,5 @@
 
-Esto es una calculadora que puede sumar.
+Esto es una calculadora que puede sumar de forma especial.
 Esto es una calculadora que puede restar.
 Esto es una calculadora que puede dividir.
 
