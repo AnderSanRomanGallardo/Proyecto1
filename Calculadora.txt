@@ -1,1 +1,2 @@
-Esto es una calculadora que puede sumar.
+Esto es una calculadora en la que puedes dividir.
+Puedes dividir si.
